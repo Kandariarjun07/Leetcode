@@ -43,8 +43,17 @@
 # String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kandariarjun07/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/Kandariarjun07/Leetcode/tree/master/1250-longest-common-subsequence) |
 # Dynamic Programming
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Kandariarjun07/Leetcode/tree/master/1250-longest-common-subsequence) |
+# Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kandariarjun07/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kandariarjun07/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
