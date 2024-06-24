@@ -40,3 +40,11 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kandariarjun07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kandariarjun07/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+# String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Kandariarjun07/Leetcode/tree/master/1250-longest-common-subsequence) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Kandariarjun07/Leetcode/tree/master/1250-longest-common-subsequence) |
