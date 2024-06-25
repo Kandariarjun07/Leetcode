@@ -26,9 +26,21 @@ class Solution {
         root->val = inorder[i++];
         setInorder(root->right, inorder, i);
     }
+    void reverseInorder(TreeNode* root, int& sum) {
+        if (root == NULL)
+            return;
+        reverseInorder(root->right, sum);
+        sum += root->val;
+        root->val = sum;
+        reverseInorder(root->left, sum);
+    }
 
 public:
     TreeNode* bstToGst(TreeNode* root) {
+        int sum = 0;
+        reverseInorder(root, sum);
+        return root;
+        /*
         vector<int> inorder;
         getInorder(root, inorder);
 
@@ -40,5 +52,6 @@ public:
         int index = 0;
         setInorder(root, inorder, index);
         return root;
+        */
     }
 };
