@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kandariarjun07/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kandariarjun07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Ordered Set
 |  |
 | ------- |
@@ -93,7 +94,13 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Kandariarjun07/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kandariarjun07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Graph
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Kandariarjun07/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kandariarjun07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kandariarjun07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
