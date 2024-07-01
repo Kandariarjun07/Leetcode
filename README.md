@@ -109,6 +109,7 @@
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/Kandariarjun07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Two Pointers
 |  |
