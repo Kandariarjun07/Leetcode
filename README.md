@@ -109,11 +109,13 @@
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Kandariarjun07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Union Find
 |  |
@@ -128,5 +130,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
