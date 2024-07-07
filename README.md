@@ -154,5 +154,10 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Kandariarjun07/Leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Kandariarjun07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Kandariarjun07/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
