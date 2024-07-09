@@ -1,15 +1,14 @@
 class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customers) {
-        int currTime = customers[0][0];
-        long long finalTime = 0;
-        for(auto customer : customers){
+        int currentTime = 0;
+        double totalWaitingTime = 0;
+        for (auto& customer : customers) {
             int arrivalTime = customer[0];
-            int timeReq = customer[1];
-            if(currTime < arrivalTime) currTime = arrivalTime;
-            currTime += timeReq;
-            finalTime += (currTime - arrivalTime);
+            int processingTime = customer[1];
+            currentTime = max(currentTime, arrivalTime) + processingTime;
+            totalWaitingTime += currentTime - arrivalTime;
         }
-        return (double)finalTime / (double)customers.size();
+        return totalWaitingTime / customers.size();
     }
 };
