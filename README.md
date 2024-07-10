@@ -116,6 +116,7 @@
 | [1803-average-waiting-time](https://github.com/Kandariarjun07/Leetcode/tree/master/1803-average-waiting-time) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kandariarjun07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kandariarjun07/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,4 +189,12 @@
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kandariarjun07/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Matrix
+|  |
+| ------- |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kandariarjun07/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Prefix Sum
+|  |
+| ------- |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kandariarjun07/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
