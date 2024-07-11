@@ -179,11 +179,13 @@
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kandariarjun07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Kandariarjun07/Leetcode/tree/master/1720-crawler-log-folder) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kandariarjun07/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kandariarjun07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Kandariarjun07/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Bit Manipulation
 |  |
