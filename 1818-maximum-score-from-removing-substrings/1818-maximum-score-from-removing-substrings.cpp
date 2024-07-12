@@ -1,22 +1,16 @@
 class Solution {
     int getPoints(string& s, string str, int points) {
         int totalPoints = 0, n = s.length();
-        stack<char> st;
-        for (auto ch : s) {
-            if (st.empty())
-                st.push(ch);
-            else if (str[0] == st.top() && str[1] == ch) {
+        int readIndex = 0, writeIndex = 0;
+        for (readIndex; readIndex < n; readIndex++) {
+            s[writeIndex++] = s[readIndex];
+            if (writeIndex > 1 && s[writeIndex - 1] == str[1] &&
+                s[writeIndex - 2] == str[0]) {
                 totalPoints += points;
-                st.pop();
-            } else {
-                st.push(ch);
+                writeIndex -= 2;
             }
         }
-        s = "";
-        while (!st.empty()) {
-            s.push_back(st.top()), st.pop();
-        }
-        reverse(s.begin(), s.end());
+        s = s.substr(0, writeIndex);
         return totalPoints;
     }
 
