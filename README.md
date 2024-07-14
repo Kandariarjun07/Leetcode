@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kandariarjun07/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2846-robot-collisions](https://github.com/Kandariarjun07/Leetcode/tree/master/2846-robot-collisions) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kandariarjun07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Kandariarjun07/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kandariarjun07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -190,6 +193,7 @@
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kandariarjun07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Kandariarjun07/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kandariarjun07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
