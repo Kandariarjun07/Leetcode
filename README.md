@@ -116,6 +116,7 @@
 | [1803-average-waiting-time](https://github.com/Kandariarjun07/Leetcode/tree/master/1803-average-waiting-time) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kandariarjun07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Kandariarjun07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Kandariarjun07/Leetcode/tree/master/2846-robot-collisions) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kandariarjun07/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
@@ -146,6 +147,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kandariarjun07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Kandariarjun07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,4 +212,12 @@
 |  |
 | ------- |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kandariarjun07/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Kandariarjun07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Kandariarjun07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
