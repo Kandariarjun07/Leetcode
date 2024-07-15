@@ -19,11 +19,11 @@ public:
         for (auto& desc : descriptions) {
             int parent = desc[0], child = desc[1], isLeft = desc[2];
 
-            if (nodeMap.find(parent) == nodeMap.end()) {
+            if (!nodeMap[parent]) {
                 nodeMap[parent] = new TreeNode(parent);
             }
 
-            if (nodeMap.find(child) == nodeMap.end()) {
+            if (!nodeMap[child]) {
                 nodeMap[child] = new TreeNode(child);
             }
 
