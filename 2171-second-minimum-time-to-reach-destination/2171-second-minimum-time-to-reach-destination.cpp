@@ -2,7 +2,7 @@ class Solution {
 public:
 #define P pair<int, int>
     int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
-        unordered_map<int, vector<int>> adj(n + 1);
+        vector<vector<int>> adj(n + 1);
         for (auto e : edges) {
             int v = e[0], w = e[1];
             adj[v].push_back(w);
