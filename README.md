@@ -137,6 +137,7 @@
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Kandariarjun07/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Kandariarjun07/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Kandariarjun07/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Sorting
 |  |
 | ------- |
@@ -250,4 +251,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kandariarjun07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Kandariarjun07/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Kandariarjun07/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
