@@ -199,6 +199,7 @@
 | [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kandariarjun07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Kandariarjun07/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kandariarjun07/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kandariarjun07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kandariarjun07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Kandariarjun07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -209,6 +210,7 @@
 | [0726-number-of-atoms](https://github.com/Kandariarjun07/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kandariarjun07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Kandariarjun07/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kandariarjun07/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kandariarjun07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Kandariarjun07/Leetcode/tree/master/2846-robot-collisions) |
 ## Bit Manipulation
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Kandariarjun07/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kandariarjun07/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
 | ------- |
